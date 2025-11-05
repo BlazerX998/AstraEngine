@@ -3,6 +3,8 @@ It supports two runtime modes:
 1. **Engine Mode** – for rendering internal AstraEngine scenes (WebGL2, entities, shaders, etc.)
 2. **Platform Mode** – for loading and running external HTML5 / WebGL games dynamically inside an iframe.
 
+   ![AstraEngine Screenshot](Screenshot (116).png)
+
 ## ✨ Features
 
 - 🎮 **Dual Mode System**  
