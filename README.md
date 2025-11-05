@@ -27,11 +27,14 @@ It supports two runtime modes:
   Fast development server, live reload, and type safety out of the box.
 
 ---
+**INSTALLATION
 
-### 1. Clone the Repository
 ```bash
+### 1. Clone the Repository
+
 git clone https://github.com/<your-username>/AstraEngine.git
 cd AstraEngine
+
 2. Install Dependencies
 npm install
 
