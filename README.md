@@ -19,7 +19,9 @@ AstraEngine introduces two powerful runtime modes:
 
 ## 🎮 Screenshots
 
-
+<p align="center">
+  <img src="Screenshot (116).png" width="850" alt="AstraEngine Engine Mode">
+</p>
 
 > *Example: Dual mode runtime with integrated WebGL scene and platform game loading.*
 
